@@ -20,13 +20,15 @@
   ],
   "keywords": [
     "string",
-		"occurrence",
-		"needle",
-		"haystack",
-		"search",
-		"count"
+    "occurrence",
+    "needle",
+    "haystack",
+    "search",
+    "count"
   ],
-  "dependencies": {},
+  "dependencies": {
+    "reg-escape": "^1.0.0"
+  },
   "devDependencies": {
     "ava": "*",
     "xo": "*"
