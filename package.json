@@ -1,0 +1,34 @@
+{
+  "name": "string-occurrence",
+  "version": "0.0.0",
+  "description": "Get the number of occurrences of a string in a string",
+  "license": "MIT",
+  "repository": "SamVerschueren/string-occurrence",
+  "author": {
+    "name": "Sam Verschueren",
+    "email": "sam.verschueren@gmail.com",
+    "url": "github.com/SamVerschueren"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "string",
+		"occurrence",
+		"needle",
+		"haystack",
+		"search",
+		"count"
+  ],
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "*",
+    "xo": "*"
+  }
+}
