@@ -28,7 +28,7 @@ stringOccurrence('foo bar\nfoo baz', ['foo', 'baz']);
 
 ## API
 
-### stringOccurrence(input, search)
+### stringOccurrence(input, search, [options])
 
 #### input
 
@@ -41,6 +41,15 @@ The string to search in.
 Type: `string`, `string[]`
 
 The keyword or keywords to search for.
+
+#### options
+
+##### caseInsensitive
+
+Type: `boolean`  
+Default: `true`
+
+Perform a case insensitive match.
 
 
 ## License

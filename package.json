@@ -27,7 +27,8 @@
     "count"
   ],
   "dependencies": {
-    "escape-string-regexp": "^1.0.4"
+    "escape-string-regexp": "^1.0.4",
+    "regex-occurrence": "^1.0.0"
   },
   "devDependencies": {
     "ava": "*",
