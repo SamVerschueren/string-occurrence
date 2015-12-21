@@ -1,6 +1,6 @@
 {
   "name": "string-occurrence",
-  "version": "1.1.1",
+  "version": "1.2.0",
   "description": "Get the number of occurrences of a string in a string",
   "license": "MIT",
   "repository": "SamVerschueren/string-occurrence",
